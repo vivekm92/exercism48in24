@@ -1,0 +1,12 @@
+# Exercism
+.exercism
+
+# Python
+.pytest_cache
+__pycache__
+
+# Java
+gradle
+build.gradle
+gradlew
+gradlew.bat
